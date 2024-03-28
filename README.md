@@ -8,7 +8,7 @@ Welcome to the 30 Days Java Challenge! This challenge is designed to provide a s
 
 2. **Choose a Development Environment:** Select an Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or NetBeans for writing and running your Java code. Install your preferred IDE and configure it for Java development.
 
-3. **Access Neso Academy Java Playlist:** Visit the [Neso Academy Java Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) to access the video tutorials for each day's challenge.
+3. **Access Neso Academy Java Playlist:** Visit the [Neso Academy Java Playlist] (https://youtu.be/vsxYucdzimA?si=x8ixLFkw3b3CASa7) to access the video tutorials for each day's challenge.
 
 ### Challenge Structure
 The challenge is organized into folders for each day, and each day's folder contains a README file with detailed instructions. The README typically includes:
