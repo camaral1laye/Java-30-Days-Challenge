@@ -65,3 +65,17 @@ Congratulations on starting the 30 Days Java Challenge with Neso Academy! This j
 =======
 Congratulations on embarking on the 30 Days Java Challenge with Neso Academy! This journey will equip you with fundamental Java programming skills and set a strong foundation for your future in Java development. Stay committed, stay curious, and enjoy the learning process. Happy coding! 🚀
 >>>>>>> refs/remotes/origin/main
+
+##<<<My Journey Today 03/30/2024
+    Today lecture was based on access modifier. like public Private, and static acess modifier. I have learn very important topic how each acess modifier work. First, 
+    Public  access: modifier specify how to access class, methods and fields.
+        - The level of access is everywhere
+            - Inside a class 
+            - Outside a class
+            - Inside the package 
+            - Outside the package
+    Private access modifier: the access level is only inside the class 
+
+    Static non access modifier: you can access fields/methods using the name
+        Ex: System.out
+                    -> out is a static field of the system
