@@ -92,4 +92,4 @@ Each box has a label so you know what's inside. Now, when you ask me to get some
 - If you ask for a pen, I'll say, "Check Box 2."
 - If you ask for candy, I'll say, "Check Box 3."
 
-Now, let's say you get a new empty box, **Box 4**, and you want to put some candy inside, but with a new flavor, not the old candy from **Box 3**. You can simply put the new candy in **Box 4** and label it accordingly. This way, you have a separate box for the new candy flavor, keeping it organized and distinct from the old candy flavor in **Box 3**.
+Now, let's say you get a new box of candy, **Box 4**, and you have full of candy inside but you already have another candy box(**box3**) now you want the old candy inside the **Box3** to go faster but everyone remenber the old box which have old candy so to trick people you can just swiches the candy inside the old **box3** to the new **box4** and put the new candy inside the old **box3**.       Happy Code!!!!!!!!!!!!!!!!!
