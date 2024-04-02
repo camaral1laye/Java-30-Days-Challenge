@@ -79,3 +79,17 @@ Congratulations on embarking on the 30 Days Java Challenge with Neso Academy! Th
     Static non access modifier: you can access fields/methods using the name
         Ex: System.out
                     -> out is a static field of the system
+
+##<<<My Journey Today 04/02/2024
+
+Today's lecture was about variables. To understand variables, think of them like storage boxes where you keep your things organized. For example:
+- **Box 1** is for books.
+- **Box 2** is for pens.
+- **Box 3** is for candy.
+
+Each box has a label so you know what's inside. Now, when you ask me to get something from these boxes, I'll tell you where to find it. For instance:
+- If you ask for a book, I'll say, "Check Box 1."
+- If you ask for a pen, I'll say, "Check Box 2."
+- If you ask for candy, I'll say, "Check Box 3."
+
+Now, let's say you get a new empty box, **Box 4**, and you want to put some candy inside, but with a new flavor, not the old candy from **Box 3**. You can simply put the new candy in **Box 4** and label it accordingly. This way, you have a separate box for the new candy flavor, keeping it organized and distinct from the old candy flavor in **Box 3**.
