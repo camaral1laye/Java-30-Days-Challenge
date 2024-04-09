@@ -93,3 +93,7 @@ Each box has a label so you know what's inside. Now, when you ask me to get some
 - If you ask for candy, I'll say, "Check Box 3."
 
 Now, let's say you get a new box of candy, **Box 4**, and you have full of candy inside but you already have another candy box(**box3**) now you want the old candy inside the **Box3** to go faster but everyone remenber the old box which have old candy so to trick people you can just swiches the candy inside the old **box3** to the new **box4** and put the new candy inside the old **box3**.       Happy Code!!!!!!!!!!!!!!!!!
+
+##<<<My Journey Today 04/09/2024
+
+First, Today lecture is base on constant variable, let's say you are ask to give and output of string call name and you decide later to change the name or you type the name wrong, so to fixed the error you made you can just change name from the variable and it will automaticaly change from every output of the constant without any extra work 
