@@ -1,10 +1,59 @@
-package Day6;
+ package Day6;
 
 public class CallingString {
     public static void main(String[] args) {
         String s1 = "Hello World";
+      
 
         System.out.println(s1.toLowerCase());
         System.out.println(s1.toUpperCase());
+
+        length();
+        //Empty();
+       // index();
+    }
+
+    public static void length(){
+    
+        //find the length of the string 
+        String l1 = "Helllo World";
+        int z = l1.length();
+        System.out.println(z);
+
+        Empty();
+    }
+    public static void Empty(){
+
+        String e1 = "Laye Camara";
+        System.out.println(e1.isEmpty());
+
+        index();
+    }
+    public static void index(){
+
+        String i1 = "camara";
+        int b = i1.indexOf('a');
+
+        System.out.println(b);
+
+        chArt();
+    }
+    public static void chArt(){
+
+        String c1 = "Computer Programming";
+
+        char c = c1.charAt(9);
+
+        System.out.println(c);
+
+        concat();
+    }
+    public static void concat(){
+
+        String c1 = "Computer";
+        String c2 = c1.concat(" Programming");
+
+        System.out.println(c2);
+
     }
 }
