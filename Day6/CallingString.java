@@ -32,9 +32,11 @@ public class CallingString {
     public static void index(){
 
         String i1 = "camara";
-        int b = i1.indexOf('a');
+        //int b = i1.indexOf('a');
 
-        System.out.println(b);
+
+        System.out.println(i1.indexOf('c'));
+        System.out.println(i1.lastIndexOf('a'));
 
         chArt();
     }
@@ -54,6 +56,13 @@ public class CallingString {
         String c2 = c1.concat(" Programming");
 
         System.out.println(c2);
+
+        Blank();
+    }
+    public static void Blank(){
+        String b1 = " ";
+
+        System.out.println(b1.isBlank());
 
     }
 }
