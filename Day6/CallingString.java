@@ -3,9 +3,10 @@
 public class CallingString {
     public static void main(String[] args) {
         String s1 = "Hello World";
-      
+       //String z1 = s1.toLowerCase();
 
         System.out.println(s1.toLowerCase());
+        //System.out.println(z1);
         System.out.println(s1.toUpperCase());
 
         length();
@@ -17,8 +18,9 @@ public class CallingString {
     
         //find the length of the string 
         String l1 = "Helllo World";
-        int z = l1.length();
-        System.out.println(z);
+        //int z = l1.length();
+        //System.out.println(z);
+        System.out.println(l1.length());
 
         Empty();
     }
@@ -53,7 +55,7 @@ public class CallingString {
     public static void concat(){
 
         String c1 = "Computer";
-        String c2 = c1.concat(" Programming");
+        String c2 = c1.concat("-"+"Programming");
 
         System.out.println(c2);
 
