@@ -1,6 +1,7 @@
 package Day7;
 
 public class Instantiating {
+    
     public static void main(String[] args) {
         String name1 = "Messi";
         String name2 = "Messi";
