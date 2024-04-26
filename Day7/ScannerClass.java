@@ -16,13 +16,15 @@ public class ScannerClass{
         Boolean b1 = input.nextBoolean();
         
         
-        
+        //float
         System.out.print("Enter Your Float variable: ");
         float f1 = input.nextFloat();
-        
+
+        //int
         System.out.print("Enter Your integer variable: ");
         int i1 = input.nextInt();
 
+        //double
         System.out.print("Enter your double variable: ");
         double d1 = input.nextDouble();
         System.out.println("You enter "+ (f1+i1)/d1);

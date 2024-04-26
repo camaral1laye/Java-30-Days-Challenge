@@ -97,3 +97,27 @@ Now, let's say you get a new box of candy, **Box 4**, and you have full of candy
 ##<<<My Journey Today 04/09/2024
 
 First, Today lecture is base on constant variable, let's say you are ask to give and output of string call name and you decide later to change the name or you type the name wrong, so to fixed the error you made you can just change name from the variable and it will automaticaly change from every output of the constant without any extra work 
+
+##<<<My Journey Today 04/26/2024
+Today lecture is base on multiple section first, we will dive in data type, type of conversion and primitive and reference type following with instantiating and immutable objects, ok!!
+    When it come to data type there are few we most know what is a data type: a particular kind of data item, as defined by the values it can take, the programming language used, or the operations that can be performed on it. for 
+                  Example: 
+                           Integers: for number without decimal part like 1,2,4,5,6,7,9,10 etc..... 
+                           Characters: for all characters on the keyboard and more like 'a','s', 'A', '&', '%', '$', '*', '#' etc......
+                           String: Group of characters like sentence text "a", "abcd", "Hello World",
+                                    **!!NB**: String are surround with double quotes
+                            Booleans: Represents only two things True or False. think it as a logical operations .
+                                  **NB** Use to create a condition.
+                            Also, we have long, bytes, short, and Float.
+
+
+                                                                         **<<Types Conversion**
+                                        
+                                                      #Byte->Short->int->long
+
+A long can store and int,short,byte
+A Int can store short, and byte but not a long
+A short can store byte, but not a long ,int 
+A Byte can only store a byte
+                            
+
