@@ -14,5 +14,6 @@ public class ExcerciseFavorite {
 
     System.out.println(favoriteNumber + " is my favorite number");
 
+        input.close();
     }
 }
