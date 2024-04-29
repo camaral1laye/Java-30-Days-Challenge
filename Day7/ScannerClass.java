@@ -24,6 +24,7 @@ public class ScannerClass{
         //int
         System.out.print("Enter Your integer variable: ");
         int i1 = input.nextInt();
+        System.out.println("You enter "+ (f1+i1));
 
         //double
         System.out.print("Enter your double variable: ");
