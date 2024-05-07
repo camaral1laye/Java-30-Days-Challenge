@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Casting",
+            "request": "launch",
+            "mainClass": "Day8.Casting",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDecrement",
+            "request": "launch",
+            "mainClass": "Day8.IncrementDecrement",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
