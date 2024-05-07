@@ -21,7 +21,7 @@ public class Casting {
         boolean b1= (3==6);
         boolean b2 = (4!=8);
         boolean b3 = (10==20);
-        boolean b4 = (2+4) > (3+5);
+        boolean b4 = (2+4) >= (3+5);
         
         System.out.println(b1);
         System.out.println(b2);
