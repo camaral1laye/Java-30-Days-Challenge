@@ -7,7 +7,7 @@ public class MaxTwoNumber {
         int x = 15;
 
         int max = z > x ? z : x;
-        System.out.println(max);
+        System.out.println(max +"\n");
 
         NameExist();
     }
@@ -18,8 +18,8 @@ public class MaxTwoNumber {
         String NewName = "Tesla";
         Name = NewName;
 
-        System.out.println(Name.isEmpty()? " The name is not empty": Name);
-        System.out.println(!Name.isBlank()? " The name is not blank": Name);
+        System.out.println(Name.isEmpty()? Name : " The name is empty");
+        System.out.println(!Name.isBlank()? Name : "The name is blank");
     }
     
 }
