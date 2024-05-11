@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VowelConsonants",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.VowelConsonants",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "LettersGrade",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.LettersGrade",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.LeapYear",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNegativeNumber",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.PositiveNegativeNumber",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "IfStatememntExercice1",
             "request": "launch",
             "mainClass": "Day9.IfStatememntExercice1",
