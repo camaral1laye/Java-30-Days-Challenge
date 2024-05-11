@@ -18,7 +18,7 @@ public class MaxTwoNumber {
         String NewName = "Tesla";
         Name = NewName;
 
-        System.out.println(Name.isEmpty()? Name : " The name is empty");
+        System.out.println(Name.isEmpty()? Name : "The name is empty");
         System.out.println(!Name.isBlank()? Name : "The name is blank");
     }
     
