@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NestedIfElseStatement",
+            "request": "launch",
+            "mainClass": "Day9.NestedIfElseStatement",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "IfElseStatement",
             "request": "launch",
             "mainClass": "Day9.IfElseStatement",
