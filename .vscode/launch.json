@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfElseStatement",
+            "request": "launch",
+            "mainClass": "Day9.IfElseStatement",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "TriangleType",
             "request": "launch",
             "mainClass": "Day9.PracticeExamples.TriangleType",
