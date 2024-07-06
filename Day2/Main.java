@@ -6,6 +6,7 @@ public class Main{
 
         Laye.sayHi();
         sayHey();
+        Laye.sayHello();
        
     }
     public static void sayHey(){
