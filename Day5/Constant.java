@@ -10,11 +10,6 @@ public class Constant {
         System.out.println(Name);
         System.out.println(Name);
         System.out.println(Name);
-        System.out.println(Name);
-        System.out.println(Name);
-        System.out.println(Name);
-        System.out.println(Name);
-        System.out.println(Name);
 
         constat();
     }
