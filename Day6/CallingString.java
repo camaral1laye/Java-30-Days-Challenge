@@ -2,6 +2,12 @@
 
 public class CallingString {
     public static void main(String[] args) {
+
+        UpperLowerCase(); 
+    }
+
+    public static void UpperLowerCase(){
+
         String s1 = "Hello World";
        //String z1 = s1.toLowerCase();
 
@@ -10,8 +16,6 @@ public class CallingString {
         System.out.println(s1.toUpperCase());
 
         length();
-        //Empty();
-       // index();
     }
 
     public static void length(){

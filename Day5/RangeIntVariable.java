@@ -8,7 +8,7 @@ public class RangeIntVariable {
         System.out.println(i1);
         System.out.println(i2);
         System.out.println(i1*(2)+i2*(-3));
-        System.out.println(i1-i2);
+        System.out.println(i1-i2 +"\n");
 
         VariableRange();
         //MaxMin();
@@ -22,20 +22,24 @@ public class RangeIntVariable {
         double d1 = 55.5;
         float f1 = 0.5F;
         char c1 = 'A';
+        int h1 = 'A';
         char c2 = 65;
         boolean istrue = 50 > 5;
         boolean isfalse = 10 > 20;
        
        
-
+       // d1 = l1 +(i1 + s1 + b1);
+        //i1 = s1 + b1;
+       // s1 = b1;
         d1 = s1*(2/2) + b1*(8) + f1/2 + i1 + l1*2;
-        d1 = i1 * 2;
+        //d1 = i1 * 2;
 
         System.out.println(d1);
         System.out.println(c1);
+        System.out.println(h1);
         System.out.println(c2);
         System.out.println(istrue);
-        System.out.println(isfalse);
+        System.out.println(isfalse + "\n");
         MaxMin();
     }
     public static void MaxMin(){
@@ -53,6 +57,8 @@ public class RangeIntVariable {
         System.out.println(Double.MIN_VALUE);
         System.out.println(Float.MAX_VALUE);
         System.out.println(Float.MIN_VALUE);
+
+        
     }
     
 }
