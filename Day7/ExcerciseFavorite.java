@@ -6,14 +6,13 @@ public class ExcerciseFavorite {
 
     public static void main(String[] args)
     {
-
-    System.out.print("Enter your favorite number: ");
-
-    Scanner input = new Scanner(System.in);
-    int favoriteNumber = input.nextInt();
-
-    System.out.println(favoriteNumber + " is my favorite number too");
-
-        input.close();
+        System.out.print("Enter your Favorite Number: ");
+        Scanner n = new Scanner(System.in);
+        //double Number = n.nextInt();
+        //System.out.println(Number + " is my favorite number too!!");
+        System.out.println(n.nextInt() + " is my favorite number too!!");
+       
+        n.close();
     }
+ 
 }

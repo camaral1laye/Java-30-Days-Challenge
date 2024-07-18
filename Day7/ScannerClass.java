@@ -18,9 +18,10 @@ public class ScannerClass{
         System.out.println("Your boolean is:"+ b1);
         
         //float
-        System.out.print("Enter Your Float variable: ");
-        float f1 = input.nextFloat();
-
+       System.out.print("Enter Your Float variable: ");
+       float f1 = input.nextFloat();
+       System.out.println("You enter: "+ f1);
+        
         //int
         System.out.print("Enter Your integer variable: ");
         int i1 = input.nextInt();
