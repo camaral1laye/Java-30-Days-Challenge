@@ -13,7 +13,9 @@ public class ExcerciceNameAge {
         System.out.print("Enter your age: ");
         int Age = input.nextInt();
 
-        System.out.println(Name.concat(" you are ")+ Age+ " old!");
+        System.out.println(Name.concat("! you are ")+ Age+ " old!");
+        //System.out.print("Enter you name and age: ");
+        //System.out.print(input.nextLine() + " your are "+ input.nextInt()+ " old!");
 
     input.close();
     }
