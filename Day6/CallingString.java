@@ -8,67 +8,74 @@ public class CallingString {
 
     public static void UpperLowerCase(){
 
-        String s1 = "Hello World";
-       //String z1 = s1.toLowerCase();
+        String s1 = "LayE CaMarA";
+        String s2 = s1.toLowerCase();
 
-        System.out.println(s1.toLowerCase());
-        //System.out.println(z1);
         System.out.println(s1.toUpperCase());
+        System.out.println(s2 +"\n");
+
 
         length();
     }
 
     public static void length(){
-    
-        //find the length of the string 
-        String l1 = "Helllo World";
-        //int z = l1.length();
-        //System.out.println(z);
+
+        String l1 = " Computer Science";
+        int i1 = l1.length();
+
         System.out.println(l1.length());
+        System.out.println(i1+"\n");
+    
 
         Empty();
     }
     public static void Empty(){
 
-        String e1 = "Laye Camara";
-        System.out.println(e1.isEmpty());
+        String E1 = "Amazon";
+        String E2 = "";
 
+        System.out.println(E1.isEmpty());
+        System.out.println(E2.isEmpty()+"\n");
+
+       
         index();
     }
     public static void index(){
 
-        String i1 = "camara";
-        //int b = i1.indexOf('a');
+        String i1 =  "Google";
 
-
-        System.out.println(i1.indexOf('c'));
-        System.out.println(i1.lastIndexOf('a'));
+        System.out.println(i1.indexOf('G'));
+        System.out.println(i1.lastIndexOf('o')+"\n");
 
         chArt();
     }
     public static void chArt(){
 
-        String c1 = "Computer Programming";
-
-        char c = c1.charAt(9);
-
-        System.out.println(c);
+        String c1 = "Meta";
+        char c2 = c1.charAt(3);
+        
+        System.out.println(c1.charAt(0));
+        System.out.println(c2+"\n");
 
         concat();
     }
     public static void concat(){
 
-        String c1 = "Computer";
-        String c2 = c1.concat("-"+"Programming");
+        String t1 = "Stockton";
+        String t2 = " University";
 
-        System.out.println(c2);
-
+        System.out.println(t1.concat(t2)+"\n");
+    
         Blank();
     }
     public static void Blank(){
-        String b1 = " ";
+
+        String b1 = "Adama Keita";
+        String b2 = "";
 
         System.out.println(b1.isBlank());
+        System.out.println(b2.isBlank());
 
     }
+    
 }
