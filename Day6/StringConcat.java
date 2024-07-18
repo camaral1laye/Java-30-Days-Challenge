@@ -6,6 +6,7 @@ public class StringConcat {
         String part1 = "Stockton";
         String part2 = " University";
         String full = part1  + part2;
+        //String i = " one";
 
         System.out.println(full);
         System.out.println("My favorite college is " + full);
