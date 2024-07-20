@@ -18,5 +18,5 @@ public class ExcerciceNameAge {
         //System.out.print(input.nextLine() + " your are "+ input.nextInt()+ " old!");
 
     input.close();
-    }
+   }
 }
