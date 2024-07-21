@@ -13,7 +13,7 @@ public class Casting {
         System.out.println(f1 =(i1+d1));
         System.out.println((d1 =(int)(i1+f1))+ "\n");
 
-        Realational();;
+        Realational();
     }
 
     public static void Realational(){
@@ -23,10 +23,10 @@ public class Casting {
         boolean b3 = (10==20);
         boolean b4 = (2+4) >= (3+5);
         
-        System.out.println(b1);
-        System.out.println(b2);
-        System.out.println(b3);
-        System.out.println(b4 +"\n"); 
+        System.out.println(b1);//false
+        System.out.println(b2);//true
+        System.out.println(b3);//false
+        System.out.println(b4 +"\n");//false
 
         LogicalOperators();
     }
