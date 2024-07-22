@@ -1,4 +1,4 @@
-package Day9;
+package Day9.PracticeExamples;
 
 public class MaxTwoNumber {
     public static void main(String[] args) {
