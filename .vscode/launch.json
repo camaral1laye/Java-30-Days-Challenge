@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GroupClass",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.GroupClass",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "IfStatememntExercice1",
             "request": "launch",
             "mainClass": "Day9.PracticeExamples.IfStatememntExercice1",
