@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LuckyNumber",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.LuckyNumber",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Day9.PracticeExamples.Calculator",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "GroupClass",
             "request": "launch",
             "mainClass": "Day9.PracticeExamples.GroupClass",
