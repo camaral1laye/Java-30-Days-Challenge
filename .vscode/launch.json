@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArmstrongCheck",
+            "request": "launch",
+            "mainClass": "ExtraExcercise.Day9.Extra.Excercise.ArmstrongCheck",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumCheck",
+            "request": "launch",
+            "mainClass": "ExtraExcercise.Day9.Extra.Excercise.PalindromeNumCheck",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "Day10.WhileLoop",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongCheck",
+            "request": "launch",
+            "mainClass": "ArmstrongCheck",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "PalindromeNumCheck",
             "request": "launch",
             "mainClass": "PalindromeNumCheck",

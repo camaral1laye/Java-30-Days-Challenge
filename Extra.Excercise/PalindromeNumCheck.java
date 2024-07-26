@@ -11,9 +11,9 @@ public class PalindromeNumCheck {
 
     
         int n = scanner.nextInt();
-        if(n <10000 || n > 99999)
+        if(n <10000 || n > 99999){
             System.out.println("The number is not a five-digit number.");
-        else{
+    }else{
 
         //Extract the digits
         int firstDigit = n / 10000;
