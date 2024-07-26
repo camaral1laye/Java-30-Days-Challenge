@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeNumCheck",
+            "request": "launch",
+            "mainClass": "PalindromeNumCheck",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "LuckyNumber",
             "request": "launch",
             "mainClass": "Day9.PracticeExamples.LuckyNumber",
