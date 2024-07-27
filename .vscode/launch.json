@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "Day9.SumOfDigits",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "Day10.SumOfDigits",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "ArmstrongCheck",
             "request": "launch",
             "mainClass": "ExtraExcercise.Day9.Extra.Excercise.ArmstrongCheck",
