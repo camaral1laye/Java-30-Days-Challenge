@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "doWhileLoopExcercise",
+            "request": "launch",
+            "mainClass": "Day10.doWhileLoopExcercise",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopExcercise",
+            "request": "launch",
+            "mainClass": "Day10.WhileLoopExcercise",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "HelloWorld",
             "request": "launch",
             "mainClass": "Day01.HelloWorld",
