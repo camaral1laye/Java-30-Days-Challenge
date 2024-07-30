@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class doWhileLoopExcercise {
     public static void main(String[] args) {
 
-        System.out.print("Enter a number between 1 and 10: " );
+       // System.out.print("Enter a number between 1 and 10: " );
         Scanner n = new Scanner(System.in);
         int i;
 
