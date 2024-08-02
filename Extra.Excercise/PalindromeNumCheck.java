@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 public class PalindromeNumCheck {
-    /**
-     * @param args
-     */
+    
     public static void main(String[] args) {
         
         System.out.print("Enter a five-digit number: ");
