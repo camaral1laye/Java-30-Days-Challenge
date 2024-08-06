@@ -10,7 +10,7 @@ public class WhileLoopExcercise {
         int i = scanner.nextInt();
 
         while(i < 1 || i > 10){
-            System.out.println(i + " is not between 1 and 10. Try again: ");
+            System.out.print(i + " is not between 1 and 10. Try again: ");
             i = scanner.nextInt();
         }
         System.out.print(i + " is not between 1 and 10.Thanks! ");
