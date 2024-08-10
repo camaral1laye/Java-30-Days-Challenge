@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NestedLoopExcercise",
+            "request": "launch",
+            "mainClass": "NestedLoopExcercise",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "NestedLoop",
             "request": "launch",
             "mainClass": "Day10.NestedLoop",
