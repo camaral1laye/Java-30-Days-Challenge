@@ -9,11 +9,12 @@ public class LoopExcercie2 {
         int sum = 0;
         while(sum<=100){
             System.out.print("Enter a number: ");
-
             sum+=s.nextInt();
         }
             
             System.out.println("Done " + sum);
+    s.close();   
     }
+ 
 }
 
