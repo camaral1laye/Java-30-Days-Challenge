@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LooPexcercise",
+            "request": "launch",
+            "mainClass": "LooPexcercise",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
+            "name": "LoopsExercice3",
+            "request": "launch",
+            "mainClass": "Day10.LoopExercises.LoopsExercice3",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "LoopExcercie2",
             "request": "launch",
             "mainClass": "Day10.LoopExercises.LoopExcercie2",
