@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoopExcercise4",
+            "request": "launch",
+            "mainClass": "Day10.LoopExercises.LoopExcercise4",
+            "projectName": "Java-30-Days-Challenge_62381d74"
+        },
+        {
+            "type": "java",
             "name": "LooPexcercise",
             "request": "launch",
             "mainClass": "LooPexcercise",

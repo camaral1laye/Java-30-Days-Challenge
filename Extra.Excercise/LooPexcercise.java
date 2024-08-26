@@ -7,21 +7,15 @@ public class LooPexcercise {
 
         int sum = 0;
 
-        while(true){
+        while(sum<=100){
             System.out.print("Enter the number: ");
-
-            sum+= s.nextInt();
-            //break;
-                if(sum < 100){
-                System.out.print("Enter the number again: ");
-                break;
-            }
-                 else if(sum>=100){
-                System.out.println("Done "+ sum);
-                break;
-            }
             
+            sum+= s.nextInt();
         }
-        s.close();
-    }
+                System.out.println("Done "+ sum);
+        
+            
+    s.close();        
+        }
+   
 }
