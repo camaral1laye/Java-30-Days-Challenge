@@ -70,7 +70,7 @@ public class CallingString {
     }
     public static void Blank(){
 
-        String b1 = "Adama Keita";
+        String b1 = "Morgan State";
         String b2 = "";
 
         System.out.println(b1.isBlank());

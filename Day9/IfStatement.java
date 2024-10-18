@@ -1,13 +1,19 @@
 package Day9;
 
+import java.util.Scanner;
+
 //import java.util.Scanner;
 
 public class IfStatement {
     public static void main(String[] args) {
         
-        int x = 10;
-        int y = 20;
-       
+        Scanner max = new Scanner(System.in);
+        System.out.print("Enter the value of x: ");
+        int x = max.nextInt();
+        System.out.print("Enter the value of y: ");
+        int y = max.nextInt();
+        //System.out.println("Enter the value of x: ");
+        //System.out.println("Enter the value of y: ");
         /*Scanner max = new Scanner(System.in);
         System.out.print("Enter the value of x: ");
         int x = max.nextInt();
