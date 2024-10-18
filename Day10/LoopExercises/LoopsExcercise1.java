@@ -20,9 +20,7 @@ public class LoopsExcercise1 {
         for(i = 1; i<=100; i++){
             if(i%2==1)
             System.out.print(i + " ");
-        }
-        System.out.println(" "+"\n");
-        System.out.print("Odd number decreasing order: ");
+        } 
         for(i = 100; i>=1; i--){
             if(i%2==1)
             System.out.print(i + " ");
